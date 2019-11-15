@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\ListOfObjects\TaskList\bin\Debug\TaskList.exe.config
+C:\Users\opilane\projects\ListOfObjects\TaskList\bin\Debug\TaskList.exe
+C:\Users\opilane\projects\ListOfObjects\TaskList\bin\Debug\TaskList.pdb
+C:\Users\opilane\projects\ListOfObjects\TaskList\obj\Debug\TaskList.csprojAssemblyReference.cache
+C:\Users\opilane\projects\ListOfObjects\TaskList\obj\Debug\TaskList.exe
+C:\Users\opilane\projects\ListOfObjects\TaskList\obj\Debug\TaskList.pdb
